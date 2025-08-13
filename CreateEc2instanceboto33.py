@@ -93,7 +93,7 @@ instances = ec2_resource.create_instances(
             'Tags': [
                 {
                     'Key':'Name',
-                    'Value': 'FinalEc2Server2'
+                    'Value': 'lemonstre'
                 },
                 {
                     'Key':'Env',
